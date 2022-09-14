@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="editarNome">Cost Of Service</string>
+    <string name="pergunta">How was the service?</string>
+    <string name="botao1">Amazing (20%)</string>
+    <string name="botao2">Good (18%)</string>
+    <string name="botao3">OK (15%)</string>
+    <string name="texto2">Round up tip?</string>
+    <string name="botaoCal">CALCULATE</string>
+    <string name="botaozin">Round up tip?</string>
+    <string name="Result">Result: %s</string>
+</resources>
